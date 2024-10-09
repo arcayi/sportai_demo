@@ -1,8 +1,10 @@
+[[English]](README.md) | [[中文]](README.zh-CN.md)
 
 # SportAI 演示
 
 这是SportAI的演示Repo。SportAI项目的目标是运动训练/测试的AI助手或教练
 
+## 已经支持的运动
 SportAI支持单人/多人运动，支持的运动类型目前包括：
 
 1. 仰卧起坐

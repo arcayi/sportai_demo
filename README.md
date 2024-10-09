@@ -1,10 +1,11 @@
+[[English]](README.md) | [[中文]](README.zh-CN.md)
 
 # SportAI Demo
 
 
 This repo is a demo for SportAI project, an AI assistant for human sport trainning and testing.
 
-## Supported sports demo
+## Supported sports
 SportAI supports both single and multiple person sport detection. Supported sports include:
 
 1. SitUp
