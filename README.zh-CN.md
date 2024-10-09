@@ -59,5 +59,4 @@ SportAI支持单人/多人运动，支持的运动类型目前包括：
 > SportAI旨在提升运动体验，基于AI深度学习模型和机器视觉，提供可信的运动训练、测试判定结果。
 > 
 > 如果你觉得这个项目有意义，请支持
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/weihuayi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/weihuayi" /></a></p>
-<br><br>
+<p><a href="https://buymeacoffee.com/weihuayi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/weihuayi" /></a></p>

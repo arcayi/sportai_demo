@@ -59,5 +59,4 @@ SportAI supports both single and multiple person sport detection. Supported spor
 > SportAI aimed to lift sport experience. It uses modern technologies like AI, Deep Learning and Computer Vision, providing reliable judgment result for sport training and testing.
 > 
 > Please support me if you feel this project is meaningful:
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/weihuayi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/weihuayi" /></a></p>
-<br><br>
+<p><a href="https://buymeacoffee.com/weihuayi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/weihuayi" /></a></p>
